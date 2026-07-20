@@ -11,6 +11,6 @@
     - Microsoft Terminal Services
 4. Output completo do comando ```ip a``` e ```ss  -tuldn``` do killerCoda
     - ip a 
-        ![ipa](//M5-Linux-Ciberseguranca/sessao-01/evidencias/ipa.png)
+        ![ipa](/sessao-01/evidencias/ipa.png)
     - ss -tuln
-        ![ss -tuln](//M5-Linux-Ciberseguranca/sessao-01/evidencias/ss-tuln.png)
+        ![ss -tuln](/sessao-01/evidencias/ss-tuln.png)
