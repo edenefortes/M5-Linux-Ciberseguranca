@@ -10,5 +10,4 @@
 
 3. A politica aplicada foi do bloqueo de pedidos para qualqer porta na maquina. 
 Permitir a saida de todos os pedidos;
-Abertura da porta 22 para receber pedidos e o bloqueio dos pedidos do ip  203.0.113.50
-
+Abertura da porta 22 para receber pedidos e o bloqueio dos pedidos do ip  203.0.113.50.
